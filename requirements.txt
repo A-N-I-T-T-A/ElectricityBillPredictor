@@ -1,0 +1,6 @@
+flask
+joblib
+scikit-learn
+pandas
+numpy
+gunicorn  # Required for production deployment

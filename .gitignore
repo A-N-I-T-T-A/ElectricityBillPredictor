@@ -1,0 +1,36 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.venv
+*.env
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# Environment variables
+.env
+*.env
+
+# PythonAnywhere-specific files
+*.sqlite3
+instance/
+*.db
+*.bak
+
+# Ignore VS Code settings (if using VS Code)
+.vscode/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
